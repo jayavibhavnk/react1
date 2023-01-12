@@ -1,0 +1,7 @@
+flow of react 
+
+1)Package.json (java script object notation)
+2)node-module (libraries)
+3)index.html (div with id = root)
+4)index.js (render root div/ render app(fucntional based component))
+
